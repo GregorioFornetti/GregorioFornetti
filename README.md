@@ -45,7 +45,7 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 <a href="https://pytorch.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/> 
 </a> 
-<a href="https://plotly.com/" target="_blank"> 
+<a href="https://plotly.com/python/" target="_blank"> 
   <img src="https://cdn.simpleicons.org/plotly" width="45" height="45"/> 
 </a> 
 <a href="https://github.com/open-mmlab/mmdetection3d" target="_blank"> 
