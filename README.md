@@ -33,6 +33,8 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 
 ### 🔬 Main Stack
 
+![](/main_stack_logos/python_logo.svg)
+
 <a href="https://www.python.org/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> 
 </a> 
