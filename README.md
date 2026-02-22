@@ -33,23 +33,9 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 
 ### 🔬 Main Stack
 
-![](/main_stack_logos/python_logo.svg)
-
-<a href="https://www.python.org/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/> 
-</a> 
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/> 
-</a> 
-<a href="https://pytorch.org/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/> 
-</a> 
-<a href="https://plotly.com/python/" target="_blank"> 
-  <img src="https://cdn.simpleicons.org/plotly" width="45" height="45"/> 
-</a> 
-<a href="https://github.com/open-mmlab/mmdetection3d" target="_blank"> 
-  <img src="https://cdn.simpleicons.org/openmmlab" width="45" height="45"/> 
-</a> 
+[![python logo](/logos/main_stack/python.svg)](https://www.python.org)
+[![numpy logo](/logos/main_stack/numpy.svg)](https://numpy.org)
+[![pandas logo](/logos/main_stack/pandas.svg)](https://pandas.pydata.org)
+[![plotly logo](/logos/main_stack/plotly.svg)](https://plotly.com/python)
+[![pytorch logo](/logos/main_stack/pytorch.svg)](https://pytorch.org/)
+[![mm logo](/logos/main_stack/mm.png)](https://github.com/open-mmlab/mmdetection3d)
