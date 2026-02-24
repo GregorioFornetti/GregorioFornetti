@@ -34,7 +34,7 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 [![linkedin logo](/logos/social/linkedin.svg)](https://www.linkedin.com/in/greg%C3%B3rio-fornetti-azevedo-4a0193201)
 [![portfolio logo](/logos/social/portfolio.svg)](https://gregoriofornetti.github.io)
 [![scholar logo](/logos/social/googlescholar.svg)](https://scholar.google.com/citations?hl=pt-BR&user=3dG7e1IAAAAJ)
-[![orcid logo](/logos/social/orcid.svg)](https://cdn.simpleicons.org/orcid)
+[![orcid logo](/logos/social/orcid.svg)](https://orcid.org/0000-0002-1096-7456)
 [![lattes logo](/logos/social/lattes.svg)](http://lattes.cnpq.br/0270898882568377)
 
 ## 🛠️ Technologies
