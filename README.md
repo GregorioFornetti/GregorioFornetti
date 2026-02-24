@@ -31,23 +31,11 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/greg%C3%B3rio-fornetti-azevedo-4a0193201/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-  </a>
-  <a href="https://gregoriofornetti.github.io/">
-    <img src="https://www.svgrepo.com/svg/45055/world-wide-web" width="45"/>
-  </a>
-  <a href="https://scholar.google.com/citations?hl=pt-BR&user=3dG7e1IAAAAJ">
-    <img src="https://cdn.simpleicons.org/googlescholar" width="45"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-1096-7456">
-    <img src="https://cdn.simpleicons.org/orcid" width="45"/>
-  </a>
-  <a href="http://lattes.cnpq.br/0270898882568377">
-    <img src="no repositorio ja" width="45"/>
-  </a>
-</p>
+[![linkedin logo](/logos/social/linkedin.svg)](https://www.linkedin.com/in/greg%C3%B3rio-fornetti-azevedo-4a0193201)
+[![portfolio logo](/logos/social/portfolio.svg)](https://gregoriofornetti.github.io)
+[![scholar logo](/logos/social/googlescholar.svg)](https://scholar.google.com/citations?hl=pt-BR&user=3dG7e1IAAAAJ)
+[![orcid logo](/logos/social/orcid.svg)](https://cdn.simpleicons.org/orcid)
+[![lattes logo](/logos/social/lattes.svg)](http://lattes.cnpq.br/0270898882568377)
 
 ## 🛠️ Technologies
 
@@ -62,14 +50,12 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 
 ### 🎨 Hobbies & Side Projects
 
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/> </a> 
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/> </a> 
-  <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.simpleicons.org/tailwindcss" width="45" height="45"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/> </a> 
-  <a href="https://godotengine.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" height="45"/> </a> 
-</p>
+[![html5 logo](/logos/hobbies_stack/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![css3 logo](/logos/hobbies_stack/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![js logo](/logos/hobbies_stack/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ts logo](/logos/hobbies_stack/typescript.svg)](https://www.typescriptlang.org)
+[![vue logo](/logos/hobbies_stack/vuejs.svg)](https://vuejs.org)
+[![react logo](/logos/hobbies_stack/react.svg)](https://react.dev)
+[![tailwind logo](/logos/hobbies_stack/tailwindcss.svg)](https://tailwindcss.com)
+[![bootstrap logo](/logos/hobbies_stack/bootstrap.svg)](https://getbootstrap.com)
+[![godot logo](/logos/hobbies_stack/godot.svg)](https://godotengine.org)
