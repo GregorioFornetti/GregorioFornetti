@@ -1,14 +1,11 @@
 
 # 👋 Hi, I'm Gregório Fornetti Azevedo
 
-🎓 MSc Student in Computer Science
-at Federal University of São Carlos (UFSCar)
+🎓 MSc Student in Computer Science at [Federal University of São Carlos (UFSCar)](https://www.ufscar.br/)
 
-🌍 Exchange Student at
-Technische Hochschule Ingolstadt (THI)
+🌍 Exchange Student at [Technische Hochschule Ingolstadt (THI)](https://www.thi.de/en/)
 
-🧠 Member of the
-Intelligent Systems and Data Science Laboratory (LaSID)
+🧠 Member of the [Intelligent Systems and Data Science Laboratory (LaSID)](https://lasid.dcomp.ufscar.br/)
 
 ## 🚀 About Me
 
@@ -28,6 +25,8 @@ In addition, I contribute to the **LaSID RecSys** group, where I research and im
 * 🔁 Incremental Recommender Systems
 * 🎰 Multi-Armed Bandits
 * ⚡ Adaptive and online learning approaches
+
+In some of my free time I like to conduct other projects, mainly developing games.
 
 ## 🤝 Connect With Me
 
